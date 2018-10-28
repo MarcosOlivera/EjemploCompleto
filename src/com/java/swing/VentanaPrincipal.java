@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 public class VentanaPrincipal {
-	
+	//ashdasdgbcxhjcvf
 	public VentanaPrincipal(){
 		JButton botonAceptar = new JButton("Aceptar");
 	    botonAceptar.setFont (new Font("Dialog",Font.BOLD,12));
